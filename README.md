@@ -75,7 +75,7 @@ Since this is my first bootstrap project, i intend to continue praticing on boot
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/favourpro)
-- Twitter - [@yourusername](https://www.twitter.com/favourdev)
+
+- Frontend Mentor - [@Favourpro](https://www.frontendmentor.io/profile/favourpro)
+- Twitter - [@Favourdev](https://www.twitter.com/favourdev)
 
