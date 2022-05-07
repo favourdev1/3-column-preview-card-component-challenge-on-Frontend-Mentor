@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+}
+
+.first {
+    background-color: #e38826;
+    color: white;
+}
+
+.second {
+    background-color: #006970;
+    color: white;
+}
+
+.third {
+    background-color: #004241;
+    color: white;
+}
+
+.btn:focus {
+    stroke: none;
+    box-shadow: none !important;
+}
+
+.btn:hover {
+    border-width: 2px;
+    background-color: transparent;
+    border-color: white;
+    color: white;
+}
+
+.btn3 {
+    color: #004241;
+}
+
+.btn2 {
+    color: #006970;
+}
+
+.btn1 {
+    color: #e38826;
+}
