@@ -37,7 +37,8 @@ Users should be able to:
 ### Links
 
 -  Solution URL: [**Here's the solution**](https://github.com/favourpro/3-column-preview-card-component-challenge-on-Frontend-Mentor)
-- Live Site URL: [**Here's what it looks like** ](https://favourpro.github.io/3-column-preview-card-component-challenge-on-Frontend-Mentor/)
+- Live Site URL: [**Here's what it looks like** ](
+ https://favourdev1.github.io/3-column-preview-card-component-challenge-on-Frontend-Mentor/)
 
 ## My process
 
